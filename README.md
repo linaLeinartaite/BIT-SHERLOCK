@@ -1,6 +1,6 @@
 # project1Me
-SERLOKAS
+SHERLOCK
 
 Site published at https://linaleinartaite.github.io/project1Me/
 
-In-line design: SERLOKAS
+Design (BIT-task1): SHERLOCK
